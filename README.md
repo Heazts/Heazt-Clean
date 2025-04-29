@@ -43,12 +43,11 @@
 ---
 
 ## 📸 Capturas de Tela
+**Menu Principal**  
+<img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean.png?raw=true" width="600px" style="height:auto; display:block; margin:auto;">
 
-| Menu Principal | Modo Autodestrutivo |
-|----------------|---------------------|
-| <img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean.png?raw=true" width="600px"> | <img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean-Modo-Prote%C3%A7%C3%A3o.png?raw=true" width="590px"> |
-
-*Substitua os links acima pelos caminhos reais das suas capturas de tela.*
+**Modo Autodestrutivo**  
+<img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean-Modo-Autodestrutivo.png?raw=true" width="600px" style="height:auto; display:block; margin:auto;">
 
 ---
 
