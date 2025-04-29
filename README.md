@@ -15,7 +15,7 @@
 - 💾 **Backup automático**: Salva seus arquivos antes da faxina (porque acidentes acontecem)  
 - ⏰ **Agendamento**: Configure limpezas automáticas e esqueça o problema  
 - 🔶 **Animações laranjas**: Barras de carregamento com estilo  
-- ☠️ **Modo autodestrutivo**: Tema vermelho com confirmação reforçada (use com cuidado!)  
+- ☠️ **Modo autodestrutivo**: Tema vermelho com confirmação reforçada (proteção)  
 - 🖥️ **Infos do sistema**: Veja detalhes do seu PC antes da limpeza  
 - 🎨 **Personalização total**: Cores e aparência ajustáveis  
 - 💻 **Interface CMD turbinada**: Visual ANSI moderno para o terminal  
@@ -37,25 +37,23 @@
 3. No menu, escolha a opção desejada:  
    - **1**: Limpeza padrão (temporários e cache)  
    - **2**: Limpeza profunda (inclui prefetch e mais)  
-   - **3**: Modo autodestrutivo (cuidado!)  
-   - **4**: Exibir informações do sistema  
+   - **3**: Exibir informações do sistema  
 
 ---
 
 ## 📸 Capturas de Tela
 **Menu Principal**  
-<img src="https://raw.githubusercontent.com/Heazts/Heazt-Clean/refs/heads/main/Heazt-Clean-.png" width="800px" style="height:auto; display:block; margin:auto;">
+<img src="https://github.com/Heazts/Heazt-Clean/blob/adfecdafb07a8adc48acef47984a9d30585f3800/Heazt-Clean--.png" width="800px" style="height:auto; display:block; margin:auto;">
 
 **Modo Autodestrutivo**  
-<img src="https://raw.githubusercontent.com/Heazts/Heazt-Clean/refs/heads/main/Heazt-Clean-.png" width="800px" style="height:auto; display:block; margin:auto;">
+<img src="https://github.com/Heazts/Heazt-Clean/blob/adfecdafb07a8adc48acef47984a9d30585f3800/Heazt-Clean-.png" width="800px" style="height:auto; display:block; margin:auto;">
 
 ---
 
 ## ⚠️ Observações
 
-- **Faça backup**: Sempre salve arquivos importantes antes de limpezas profundas.  
-- **Modo autodestruição**: Só para os corajosos. Confirme duas vezes!  
-- **Testado**: Funciona perfeitamente no Windows 10 e 11.  
+- **Faça backup**: Sempre salve arquivos importantes antes de limpezas profundas.
+- **Testado**: Funciona perfeitamente no Windows 10 e 11.
 
 ---
 
@@ -72,7 +70,7 @@ Quer ajudar a destruir mais arquivos inúteis? Envie issues ou pull requests!
 
 ## 📜 Licença
 
-Distribuído sob a licença MIT — use, modifique e compartilhe à vontade!  
+Distribuído sob a licença MIT — use, modifique e compartilhe à vontade!
 
 ---
 
