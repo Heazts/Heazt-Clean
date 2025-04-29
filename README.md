@@ -1,45 +1,79 @@
 # Heazt Clean 2025 🚀
 
-**Heazt Clean 2025** é uma ferramenta de limpeza para Windows desenvolvida em batch (CMD), focada em **praticidade**, **velocidade** e **performance**.  
-O script automatiza a exclusão de arquivos temporários, prefetch, cache local e outros resíduos que comprometem o desempenho do sistema.
+![Batchfile](https://img.shields.io/badge/Batchfile-CMD-000000?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Licença](https://img.shields.io/badge/Licença-MIT-000000?style=for-the-badge&logo=open-source-initiative&logoColor=white)
+
+**Heazt Clean 2025** é uma ferramenta de limpeza para Windows feita em Batch (CMD), projetada para **praticidade**, **velocidade** e **performance**. Chega de arquivos temporários, prefetch e cache ocupando espaço! Esse script vai direto ao ponto, destruindo resíduos que atrapalham seu sistema.
 
 ---
 
 ## 🔧 Funcionalidades
 
-- 🧹 Limpeza de arquivos temporários do usuário e do sistema  
-- 🧼 Limpeza profunda de pastas como `%TEMP%`, `Prefetch` e `LocalAppData`  
-- 💾 Backup automático dos arquivos antes da limpeza  
-- ⏰ Agendamento de limpezas automáticas  
-- 🔶 Animações de carregamento com barra laranja  
-- ☠️ Modo autodestrutivo com tema vermelho e confirmação reforçada  
-- 🖥️ Exibição de informações detalhadas do sistema  
-- 🎨 Totalmente personalizável em cores e aparência  
-- 💻 Interface de linha de comando com visual ANSI aprimorado  
+- 🧹 **Limpeza de temporários**: Exclui arquivos do usuário e do sistema sem piedade  
+- 🧼 **Limpeza profunda**: Ataca pastas como `%TEMP%`, `Prefetch` e `LocalAppData`  
+- 💾 **Backup automático**: Salva seus arquivos antes da faxina (porque acidentes acontecem)  
+- ⏰ **Agendamento**: Configure limpezas automáticas e esqueça o problema  
+- 🔶 **Animações laranjas**: Barras de carregamento com estilo  
+- ☠️ **Modo autodestrutivo**: Tema vermelho com confirmação reforçada (use com cuidado!)  
+- 🖥️ **Infos do sistema**: Veja detalhes do seu PC antes da limpeza  
+- 🎨 **Personalização total**: Cores e aparência ajustáveis  
+- 💻 **Interface CMD turbinada**: Visual ANSI moderno para o terminal  
 
 ---
 
 ## 🛠️ Requisitos
 
-- Windows 10 ou superior  
-- Execução como **Administrador**  
-- Terminal com suporte a ANSI (Windows Terminal ou CMD com VT habilitado)  
+- **Sistema**: Windows 10 ou superior  
+- **Permissões**: Execução como **Administrador**  
+- **Terminal**: Suporte a ANSI (use o Windows Terminal ou CMD com VT habilitado)  
 
 ---
 
-## 📦 Como usar
+## 📦 Instalação e Uso
 
-1. Baixe o arquivo `.bat` ou `.exe` (convertido com ferramentas como `Bat To Exe Converter`)  
-2. Execute como **Administrador**  
-3. Escolha uma das opções do menu para executar a função desejada  
+1. Baixe o arquivo `.bat` ou `.exe` (convertido com ferramentas como `Bat To Exe Converter`) do [repositório](https://github.com/Makazzz/BatToExePortable).  
+2. Clique com o botão direito e execute como **Administrador**.  
+3. No menu, escolha a opção desejada:  
+   - **1**: Limpeza padrão (temporários e cache)  
+   - **2**: Limpeza profunda (inclui prefetch e mais)  
+   - **3**: Modo autodestrutivo (cuidado!)  
+   - **4**: Exibir informações do sistema  
+
+---
+
+## 📸 Capturas de Tela
+
+| Menu Principal | Modo Autodestrutivo |
+|----------------|---------------------|
+| <img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean.png?raw=true" width="600px"> | <img src="https://github.com/Heazts/Heazt-Clean/blob/main/Heazt-Clean-Modo-Prote%C3%A7%C3%A3o.png?raw=true" width="590px"> |
+
+*Substitua os links acima pelos caminhos reais das suas capturas de tela.*
 
 ---
 
 ## ⚠️ Observações
 
-- Recomenda-se **sempre fazer backup** antes de limpezas profundas  
-- O **modo de autodestruição** é opcional e deve ser usado com cautela  
-- Testado e funcional em ambientes Windows 10 e 11  
+- **Faça backup**: Sempre salve arquivos importantes antes de limpezas profundas.  
+- **Modo autodestruição**: Só para os corajosos. Confirme duas vezes!  
+- **Testado**: Funciona perfeitamente no Windows 10 e 11.  
+
+---
+
+## 🤝 Contribuições
+
+Quer ajudar a destruir mais arquivos inúteis? Envie issues ou pull requests!  
+1. Faça um fork do repositório.  
+2. Crie uma branch: `git checkout -b feature/nova-limpeza`  
+3. Faça suas alterações e commit: `git commit -m 'Adiciona X'`  
+4. Envie para o repositório: `git push origin feature/nova-limpeza`  
+5. Abra um Pull Request.  
+
+---
+
+## 📜 Licença
+
+Distribuído sob a licença MIT — use, modifique e compartilhe à vontade!  
 
 ---
 
